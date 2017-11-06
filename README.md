@@ -1,1 +1,1 @@
-"Simple snake made in python. don't expect much" 
+Simple snake made in python. don't expect much
